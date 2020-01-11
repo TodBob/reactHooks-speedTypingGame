@@ -4,4 +4,4 @@ This project is builded primary with focus on Hooks
 
 Css is here just for basic styling, to hold some form.
 
-To run this game, just create new app with react-create-app copy paste code from App.js/css. 
+To run this game, just create new app with ,,npx create-react-app my-appp,, copy paste code from App.js/css. 
